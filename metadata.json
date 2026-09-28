@@ -1,0 +1,8 @@
+{
+  "name": "Hora do Chá — Xícaras, Chás & Biscoitos",
+  "description": "Boutique minimalista de xícaras artesanais, curadoria de chás e biscoitos refinados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
